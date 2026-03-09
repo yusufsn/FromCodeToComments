@@ -2,7 +2,7 @@
 
 ## From Code to Comments: A Comparative Evaluation of LLM-Generated and Human-Written Comments
 
-This is a research artifact for the paper **From Code to Comments: A Comparative Evaluation of LLM-Generated and Human-Written Comments**. This artifact is a repository consisting of (a) our analyzed dataset, and (b) a prompt example.
+This is a research artifact for the paper **From Code to Comments: A Comparative Evaluation of LLM-Generated and Human-Written Comments**. This artifact is a repository consisting of (a) our analyzed dataset, including the similarity measurement results, (b) the license, and (c) a prompt example.
 
 ## Contents:
 1. [Dataset](https://github.com/yusufsn/FromCodeToComments/tree/main/Dataset): Result of cosine similarity measurement.
